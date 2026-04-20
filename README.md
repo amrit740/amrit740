@@ -18,9 +18,6 @@
 
 ---
 
-## 🧬 TECH DNA (Unique naming)
-
-```md
 ## 🧬 Tech DNA
 
 <p align="center">
