@@ -8,14 +8,12 @@
 
 ## ⚡ SYSTEM CORE
 
-```bash
-> Name     : Amrit Tiwari
-> Role     : CSE Student
-> Focus    : Backend + Programming
-> Status   : Learning & Building 🚀
-> Mode     : Consistent Grind ⚡
-
-
+```yaml
+Name: Amrit Tiwari
+Role: CSE Student
+Focus: Backend + Programming
+Status: Learning & Building 🚀
+Mode: Consistent Grind ⚡
 ---
 
 ## 🧬 Tech DNA
