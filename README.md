@@ -14,3 +14,6 @@
 > Focus    : Backend + Programming
 > Status   : Learning & Building 🚀
 > Mode     : Consistent Grind ⚡
+
+
+<img src="https://raw.githubusercontent.com/amrit740/amrit740/output/snake-soft.svg" />
