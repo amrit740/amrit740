@@ -1,10 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Amrit+Tiwari+%7C+Code+in+Progress...;Turning+Ideas+into+Real+Projects;Debugging+Life+%26+Code+Daily;Backend+Mindset+%7C+Builder+Mode+ON;Small+Steps+Today+%3D+Big+Wins+Tomorrow" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Amrit+⚡;Turning+Ideas+into+Code;Backend+Builder+%7C+Problem+Solver;Consistency+is+my+Superpower;Welcome+to+my+Dev+Universe+🚀" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=2&section=header"/>
+</p>
 
 ## ⚡ SYSTEM CORE
 
@@ -14,5 +13,7 @@ Role: CSE Student
 Focus: Backend + Programming
 Status: Learning & Building 🚀
 Mode: Consistent Grind ⚡
----
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Modules...;Backend+Mode+Activated;Ready+to+Build+🚀" />
+</p>
