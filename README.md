@@ -1,4 +1,21 @@
-## Hi there 👋
+<div align="center">
+
+# ⚡ Amrit Tiwari  
+### 🚀 *Building. Learning. Growing.*
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```bash
+Name      : Amrit Tiwari
+Role      : B.Tech CSE Student
+Focus     : Programming + Backend
+Learning  : C, C++, Python
+Goal      : Become a strong developer 💻
+Status    : Grinding everyday 🚀
 
 <!--
 **amrit740/amrit740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
