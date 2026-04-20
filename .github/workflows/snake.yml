@@ -13,7 +13,7 @@ jobs:
       - name: Generate smooth snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: amrittiwari
+          github_user_name: amrit740
           outputs: |
             dist/snake-soft.svg?color_snake=#6ee7b7&color_dots=#ebedf0,#c7f9cc,#80ed99,#57cc99,#38a3a5
             dist/snake-night.svg?palette=github-dark&color_snake=#a78bfa
