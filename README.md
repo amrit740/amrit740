@@ -14,6 +14,4 @@ Focus: Backend + Programming
 Status: Learning & Building 🚀
 Mode: Consistent Grind ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Modules...;Backend+Mode+Activated;Ready+to+Build+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
