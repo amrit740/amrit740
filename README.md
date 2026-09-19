@@ -116,23 +116,6 @@ interactive through gamification.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit740&show_icons=true&theme=github_dark&hide_border=true" alt="Amrit's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit740&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrit740&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
